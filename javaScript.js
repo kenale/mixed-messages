@@ -11,4 +11,4 @@ const randomMessage = () => {
     return phrases[randomNum];
 };
 
-console.log(randomMessage);
+console.log(randomMessage());
